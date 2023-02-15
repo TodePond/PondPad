@@ -1,7 +1,7 @@
 # PondPad
 
 These are my templates for new javascript projects.<br>
-There are a few different templates available:
+There are a few different types:
 
 | Template   | How to use it                                                     | Status       |
 | ---------- | ----------------------------------------------------------------- | ------------ |
