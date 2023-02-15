@@ -6,7 +6,7 @@ There are a few different templates available:
 | Template   | How to use it                                                     | Status       |
 | ---------- | ----------------------------------------------------------------- | ------------ |
 | Embed      | Double-click `index.html`.                                        | Ready        |
-| Import     | Run [`file_server`](#how-to-install-file-server) in the terminal. | Coming soon™ |
+| Import     | Run [`file_server`](#how-to-install-file_server) in the terminal. | Coming soon™ |
 | Library    | Run [`frogasaurus`](#how-to-install-frogasaurus) in the terminal. | Coming soon™ |
 | Standalone | Run [`frogasaurus`](#how-to-install-frogasaurus) in the terminal. | Coming soon™ |
 
