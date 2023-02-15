@@ -35,28 +35,6 @@ You can add more files by adding them to `index.html`.<br>
 <script src="source/other.js"></script>
 ```
 
-## Testing
-
-Write your tests in `test/main.test.js`.<br>
-
-`test/main.test.js`
-
-```js
-assert(add(3, 2) == 5)
-```
-
-Run your tests by double-clicking `test/index.html`.
-
-You can add more files by adding them to `test/index.html`.<br>
-
-`test/index.html`
-
-```html
-...
-<script src="test/test.js"></script>
-<script src="test/other.js"></script>
-```
-
 # Template: Import
 
 To enable the Import template:
